@@ -1,3 +1,4 @@
+
 <h4 align="center">Hi My  Name is Devansh Mishra and I am a MERN Stack Developer From India.</h4>
 
 ###
@@ -61,5 +62,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/devanshmishra22/devanshmishra22/output/snake.svg" alt="Snake animation" />
 
 ###
