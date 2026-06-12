@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Devanshmishra05" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" height="50" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="52" height="39" alt="Twitter" />
   </a>
   <a href="mishradevansh2233@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
